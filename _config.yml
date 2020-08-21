@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
 # If you change this file, please restart the server process.
 
 # Site settings
@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://sophieed.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 title      : Agency Jekyll Theme Demo
 email      : your-email@example.com #this is also the email contact forms will go to
