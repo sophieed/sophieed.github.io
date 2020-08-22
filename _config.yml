@@ -11,13 +11,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+theme: jekyll-agency
+#remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://sophieed.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
-title      : Sophie Edgar-Andrews
+title      : ""
 email      : sophie.edgarandrews@gmail.com #this is also the email contact forms will go to
 description: "The portfolio of Sophie Edgar-Andrews"
 author     : Sophie Edgar-Andrews
@@ -26,7 +26,7 @@ author     : Sophie Edgar-Andrews
   # height: 60 #height in px, defaults to 52px
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: UA-176051702-1
 
 collections:
   portfolio:
