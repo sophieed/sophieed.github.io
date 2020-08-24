@@ -1,13 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+title: "The Cellular Immune Response to HIV-2 Infection"
+subtitle: Encyclopedia of AIDS, 2015
+image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopedia.png
 alt: 
 
 caption:
   title: Finish
   subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopedia-thumbnail.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

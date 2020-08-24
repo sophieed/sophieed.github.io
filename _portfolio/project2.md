@@ -1,6 +1,6 @@
 ---
 title: "Recent advances in understanding HIV evolution"
-subtitle: F1000 Research
+subtitle: F1000 Research, 2017
 image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/F1000.png
 alt: Journal article
 
