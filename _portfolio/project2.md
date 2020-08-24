@@ -1,18 +1,26 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: "Recent advances in understanding HIV evolution"
+subtitle: F1000 Research
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/F1000.png
+alt: Journal article
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Publication
+  subtitle: "Recent advances in understanding HIV evolution"
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/F1000.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+First author review article describing the recent advances in understanding HIV evolution.<br>
+
+The human immunodeficiency virus (HIV) evolves rapidly owing to the
+combined activity of error-prone reverse transcriptase, recombination, and
+short generation times, leading to extensive viral diversity both within and
+between hosts. This diversity is a major contributing factor in the failure of
+the immune system to eradicate the virus and has important implications for
+the development of suitable drugs and vaccines to combat infection. This
+review discusses the recent technological advances that have shed light
+on HIV evolution and summarises emerging concepts in the field.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: April 2017
+- Category: Publication
 
