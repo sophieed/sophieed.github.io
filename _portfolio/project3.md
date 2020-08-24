@@ -7,7 +7,7 @@ alt:
 caption:
   title: Textbook Chapter
   subtitle: "The Cellular Immune Response to HIV-2 Infection"
-  thumbnail: image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopeda-thumbnail.png
+  thumbnail: image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopedathumbnail.png
 ---
 T-cells play a central role in both the control and pathogenesis of HIV infection. While T-cell responses against HIV-1 infection have been studied in great detail, 
 much less is known about T-cells in the context of HIV-2. This textbook chapter summarizes current understanding of the quantitative and qualitative characteristics 
