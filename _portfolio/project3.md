@@ -5,14 +5,15 @@ image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/asse
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopedia-thumbnail.png
+  title: Textbook Chapter
+  subtitle: "The Cellular Immune Response to HIV-2 Infection"
+  thumbnail: image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopeda-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
+T-cells play a central role in both the control and pathogenesis of HIV infection. While T-cell responses against HIV-1 infection have been studied in great detail, 
+much less is known about T-cells in the context of HIV-2. This textbook chapter summarizes current understanding of the quantitative and qualitative characteristics 
+of HIV-2-specific CD8+ and CD4+ T-cell responses, highlighting key areas in which they may differ from responses against HIV-1, and the clinical implications of such 
+disparities.
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: October 2015
+- Category: Textbook Chapter
 
