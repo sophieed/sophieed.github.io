@@ -8,7 +8,7 @@ title: Credits
 <br>
 
 {: style="text-align:center"}
-![credits](/assets/img/credits.png){:class="img-responsive"}{:width="600px"}
+![credits](/assets/img/credits.jpg){:class="img-responsive"}{:width="600px"}
 
 {: style="text-align:center"}
 The artwork displayed on this site is created by the very talented Elicea Andrews and 
