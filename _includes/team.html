@@ -1,0 +1,32 @@
+<!-- About Me -->
+<section class="bg-light page-section" id="{{ site.data.sitetext.team.section | default: team }}">
+<div class="container">
+  <div class="row">
+
+  {% for person in site.data.sitetext.team.people %}
+	<div class="col-md-4">
+	  <div class="team-member">
+		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+		<h4>{{ person.name }}</h4>
+		<p class="text-muted">{{ person.role }}</p>
+		<ul class="list-inline social-buttons">
+		{% for network in person.social %}
+		  <li class="list-inline-item">
+			<a href="{{ network.url }}" target="_blank">
+			  <i class="{{ network.icon }}"></i>
+			</a>
+		  </li>
+		{% endfor %}
+		</ul>
+	  </div>
+	</div>
+  {% endfor %}  
+  
+   <div class="col-md-8">
+  	 <h2 class="section-heading text-uppercase">{{ site.data.sitetext.team.title }}</h2>
+	 <h3 class="section-subheading text-muted">{{ site.data.sitetext.team.text }}</h3>
+   </div>    
+  </div>
+</div>
+</section>
+<!-- End Team -->

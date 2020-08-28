@@ -1,107 +1,175 @@
 header:
-    title: Welcome to my site!
-    text: It's Nice To Meet You
+    title: Sophie Edgar-Andrews
+    text: Data Science
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#about" # "#{section}" or "URL/page link"
 
-home:
-    title: "Home"
-    text: "home"
-    section: home
+team:
 
-about:
-    title: "About"
-    text: "Sophie is cool like"
+    text: "Hi, I'm Sophie. <br> <br>
+
+    I am an experienced data science and technology consultant, specialising in
+    the biomedical and public health sector.<br><br>
+
+    After completing my DPhil (PhD) in Infection, Immunology, and Translational Medicine
+    at The University of Oxford in 2016, I worked as a postdoctoral research fellow in viral
+    immunology, investigating immune evasion in HIV-1 and HIV-2 infection. Pursuing my passion for
+    coding and data, I subsequently worked for an internationally renowned
+    FinTech company, developing and deploying high-performance software solutions. <br><br>
+
+    In March 2020, the COVID-19 pandemic abruptly and profoundly changed the world we live in. While the
+    acute effects of the pandemic can still be felt, the long-standing impacts on society, health, and
+    business remain difficult to predict. <br><br>
+
+    With a strong background in viral immunology, data science, and software engineering, I am uniquely
+    placed to support your business in our evolving and uncertain world. I offer a range of freelance
+    consultancy services, and would love to hear about your ideas.<br><br>
+
+    I'm also a mum, a forager, and a really good cook."
     section: about
+    people:
+      - name: "Dr Sophie Edgar-Andrews"
+        role: "Data Scientist and Consultant <br> United Kingdom"
+        image: assets/img/team/sophie.jpg
+        social:
+          - url: https://www.linkedin.com/in/sophie-edgar-andrews-7bba0564
+            icon: "fab fa-linkedin-in"
+          - url: https://github.com/sophieed
+            icon: "fab fa-github"
+          - url: https://www.researchgate.net/profile/Sophie_Andrews3
+            icon: "fab fa-researchgate"
 
 timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "Career"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Data Scientist and Technical Consultant"
+        year: "2020"
+        desc: "Freelance data science and consultancy, with a focus on public
+        health. My clients include The World Health Organization, supporting their
+        Health Emergencies Preparedness and Response team with the management and
+        analysis of data in the context of the COVID-19 pandemic."
+        image: assets/img/timeline/wfh.jpg
+        alt:
+
+      - title: "Software Engineer and Consultant"
+        year: "2017-2020"
+        desc: "Java Engineer and Implementation Consultant in the FinTech sector, as
+        part of Alfa Financial Software Ltd: the world's leading asset finance software provider.
+        I developed bespoke software enhancements, and worked directly with major clients."
+        image: assets/img/timeline/moorplace.jpg
+        alt:
+
+        align: right
+      - title: "Postdoctoral Research Fellow in Viral Immunology"
+        year: "2016-2017"
+        desc: "Postdoctoral Research Fellow under the guidance of Professor
+        Sarah Rowland-Jones. This was a 12-month fixed-term contract funded by the
+        Rosetrees Trust to investigate mother-to-child transmission of HIV in
+        Kenyan infants."
+        image: assets/img/timeline/ndmrb.jpg
+        alt:
+
+      - title: "DPhil (PhD) Infection, Immunology and Translational Medicine"
+        year: "2012-2016"
+        desc: "Awarded a DPhil (PhD) from the University of Oxford for my research into
+        adaptive immune evasion in HIV-1 and HIV-2 infection. This study was completed under
+        the supervision of Professors Sarah Rowland-Jones and Tao Dong at the Nuffield Department
+        of Medicine. This was a four-year studentship, fully-funded by the prestigious
+        Wellcome Trust Doctoral Training Centre Programme."
+        image: assets/img/timeline/radcliffe.jpg
+        alt:
+
+        align: right
+      - title: "BSc (Hons) Molecular Cell Biology, University of York"
+        year: "2009-2012"
+        desc: "I obtained a First Class Honours with Distinction for my bachelor's degree,
+        and was awarded a departmental prize for my undergraduate thesis, investigating
+        the development of novel techniques for analysing <i>in situ</i> gene expression in the
+        context of meningococcal infections."
+        image: assets/img/timeline/york.jpg
         alt:
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+
+    end: "Nostalgic childhood memories"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Software Engineering"
+        desc: "Design and implementation of bespoke end-to-end software solutions."
+        icon: fas fa-code #find more at https://fontawesome.com/icons
+      - title: "Data Science"
+        desc: "Extracting knowledge and insights from your data."
+        icon: fas fa-greater-than-equal
+      - title: "Consultancy"
+        desc: "Consulting services to the biomedical and public health industries."
+        icon: fas fa-dna
+      - title: "Training"
+        desc: "Workshops and training materials on data science and programming."
+        icon: fas fa-chalkboard-teacher
+      - title: "Presentations"
+        desc: "Lectures on public health and bioscience. No fee for schools and charities."
+        icon: fas fa-graduation-cap
+      - title: "Mentoring"
+        desc: "Early-career mentoring for aspiring biomedical or data scientists."
+        icon: fas fa-microscope
+
+skills:
+    title: "Skills"
+    section: skills
+    list:
+      - title: "Software development"
+      - title: "Data analysis"
+      - title: "Public health"
+      - title: "Virology"
+      - title: "Immunology"
+      - title: "Java"
+      - title: "R"
+      - title: "Shiny"
+      - title: "SQL"
+      - title: "LaTeX"
+      - title: "LANSA"
+      - title: "CSS"
+      - title: "TDD"
+      - title: "Source control"
+      - title: "Project management"
+
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "A selection of projects and key publications."
     section: portfolio
 
 blog:
     title: "Blog"
-    text: "Bloggety"
+    text: "Coming soon..."
     section: blog
 
 clients:
     section: clients
-    max-height: 100px
+    max-height: 80px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "World Health Organization"
+        url: https://www.who.int/
+        logo: assets/img/clients/who.png
 
 contact:
-    title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
+    title: "Want to work together?"
     section: contact
 
 footer:
     legal: "Privacy Policy"
+    credits: "Artwork"
     social:
-      - url: https://www.facebook.com/SophieSomething
-        icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/in/sophie-edgar-andrews-7bba0564
         icon: "fab fa-linkedin-in"
       - url: https://github.com/sophieed
         icon: "fab fa-github"
+      - url: https://www.researchgate.net/profile/Sophie_Andrews3
+        icon: "fab fa-researchgate"
 
 
 

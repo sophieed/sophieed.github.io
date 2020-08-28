@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
-alt: 
+title: "Analysis of HIV-1 envelope evolution suggests antibody-mediated selection of common epitopes"
+subtitle: Scientific Reports, 2018
+image: assets/img/portfolio/scientific-reports.png
+alt: Journal Article
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Publication
+  subtitle: "Analysis of HIV-1 envelope evolution suggests antibody-mediated selection of common epitopes"
+  thumbnail: assets/img/portfolio/scientific-reports.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+First author study describing the role of antibodies on driving HIV evolution.<br>
+
+The HIV-1 envelope mutates rapidly to evade recognition and killing, and is a major target of humoral immune responses and vaccine development. 
+We studied HIV-1 envelope evolution in a narrow-source cohort of former plasma donors, with the aim of identifying common antibody epitopes under immune selection.
+We identified several sites under significant immunological pressure in a majority of patients. If verified in functional studies, such epitopes could be suitable as targets in vaccine development.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- Date: April 2018
+- Category: Publication

@@ -1,19 +1,19 @@
 nav:
 
-  - title: "Home"
-    section: home
-
   - title: "About"
-    section: timeline
+    section: about
 
   - title: "Services"
     section: services
+
+  - title: "Career"
+    section: timeline
 
   - title: "Portfolio"
     section: portfolio
 
   - title: "Blog"
-    section: blog
+    url: blog
 
   - title: "Contact"
     section: contact

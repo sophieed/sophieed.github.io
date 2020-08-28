@@ -2,7 +2,7 @@
 title: "The Cellular Immune Response to HIV-2 Infection"
 subtitle: Encyclopedia of AIDS, 2015
 image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/encyclopedia.png
-alt: 
+alt: Textbook Chapter
 
 caption:
   title: Textbook Chapter
@@ -15,6 +15,7 @@ T-cells play a central role in both the control and pathogenesis of HIV infectio
 much less is known about T-cells in the context of HIV-2. This textbook chapter summarizes current understanding of the quantitative and qualitative characteristics 
 of HIV-2-specific CD8+ and CD4+ T-cell responses, highlighting key areas in which they may differ from responses against HIV-1, and the clinical implications of such 
 disparities.
+
 {:.list-inline}
 - Date: October 2015
 - Category: Publication

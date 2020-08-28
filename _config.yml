@@ -14,11 +14,11 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://sophieed.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+url    : "https://sophieedgarandrews.com/" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 title      : ""
-email      : sophie.edgarandrews@gmail.com #this is also the email contact forms will go to
+email      : hello@sophieedgarandrews.com #this is also the email contact forms will go to
 description: "The portfolio of Sophie Edgar-Andrews"
 author     : Sophie Edgar-Andrews
 # logo:     #optional, defaults to site title

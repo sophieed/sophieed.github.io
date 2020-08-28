@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: "A vaccine against serogroup B Neisseria meningitidis: dealing with uncertainty"
+subtitle: The Lancet Infectious Diseases, 2014
+image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/lancet.jpg
+alt: Serial dilution of blood plasma samples
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Publication
+  subtitle: "A vaccine against serogroup B Neisseria meningitidis"
+  thumbnail: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/lancet.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+First author review article on the development of a vaccine against serogroup B Neisseria meningitidis: an important cause of invasive bacterial infection in children worldwide. <br>
+We discuss the pros and cons of the vaccine and conclude that for parents and clinicians treating individual patients, the predicted benefits of vaccination outweigh existing uncertainties if any cases can be prevented, but future use of the vaccine must be followed by rigorous post-implementation surveillance to reassess its value to health systems with directly recorded epidemiological data.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: March 2014
+- Category: Publication
 

@@ -1,0 +1,17 @@
+// Styling for the skills section
+.skill-heading {
+  display: block;
+        margin: 7px;
+        padding: 5px 10px;
+        background: lighten($sand, 15%);
+        font-size: 1.2em;
+}
+
+#skills {
+    ul {
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+        max-width: 800px;
+    }
+}

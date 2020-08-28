@@ -1,0 +1,22 @@
+  <!-- Skills -->
+<section class="bg-light page-section" id="{{ site.data.sitetext.skills.section | default: skills }}">
+	<div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.skills.title | default: Skills }}</h2>
+          {% if site.data.sitetext.skills.text %}
+		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.skills.text }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+      
+      <div class="row text-center">
+	  {% for skill in site.data.sitetext.skills.list %}
+        <ul>
+          <h4 class="skill-heading">{{ skill.title | markdownify }}</h4>
+        </ul>
+	  {% endfor %}
+      </div>
+	</div>
+</section>
+<!-- End Skills -->

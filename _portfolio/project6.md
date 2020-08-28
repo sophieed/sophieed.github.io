@@ -1,18 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
-alt: 
+title: "Structure of HIV-2 Nef Reveals Features Distinct from HIV-1 Involved in Immune Regulation"
+subtitle: iScience, 2020
+image: assets/img/portfolio/iscience.png
+alt: Journal Article
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Publication
+  subtitle: "Structure of HIV-2 Nef Reveals Features Distinct from HIV-1 Involved in Immune Regulation"
+  thumbnail: assets/img/portfolio/iscience.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Joint first author study describing the crystal structure of the HIV-2 Nef protein.<br>
+
+The human immunodeficiency virus (HIV) accessory protein Nef plays a major role in establishing and 
+maintaining infection, particularly through immune evasion. Here we reported the crystal structure of 
+the HIV-2 Nef core, providing insights into the distinct pathogenesis of HIV-2 infection.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: January 2020
+- Category: Publication
 
