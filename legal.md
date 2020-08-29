@@ -28,6 +28,10 @@ We do not collect any data about you or use any cookies.
 
 {% endif %}
 
+Enquiries submitted via the contact form are processed by FormSpree: <https://formspree.io/legal/privacy-policy>.
+
+The Site may contain links to Third Party Websites. Any link you make to or from the Third Party Website will be at your own risk. Any use of the Third Party Website will be subject to and any information you provide will be governed by the terms of the Third Party Website, including those relating to confidentiality, data privacy and security.
+
 **CHANGES**
 
 We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
