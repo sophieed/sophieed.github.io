@@ -30,7 +30,7 @@ team:
     people:
       - name: "Dr Sophie Edgar-Andrews"
         role: "Data Scientist and Consultant <br> United Kingdom"
-        image: assets/img/team/sophie.jpg
+        image: assets/img/team/soph.jpg
         social:
           - url: https://www.linkedin.com/in/sophie-edgar-andrews-7bba0564
             icon: "fab fa-linkedin-in"
