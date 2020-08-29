@@ -6,7 +6,7 @@ alt: Journal article
 
 caption:
   title: Publication
-  subtitle: "Recent advances in understanding HIV evolution"
+  subtitle: "Recent advances in understanding HIV&nbsp;evolution"
   thumbnail: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/F1000.png
 ---
 First author review article describing the recent advances in understanding HIV evolution.<br>

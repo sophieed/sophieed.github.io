@@ -48,7 +48,7 @@ timeline:
         desc: "Freelance data science and consultancy, with a focus on public
         health. My clients include The World Health Organization, supporting their
         Health Emergencies Preparedness and Response team with the management and
-        analysis of data in the context of the COVID-19 pandemic."
+        analysis of data in the context of the coronavirus pandemic."
         image: assets/img/timeline/wfh.jpg
         alt:
 
@@ -66,7 +66,7 @@ timeline:
         desc: "Postdoctoral Research Fellow under the guidance of Professor
         Sarah Rowland-Jones. This was a 12-month fixed-term contract funded by the
         Rosetrees Trust to investigate mother-to-child transmission of HIV in
-        Kenyan infants."
+        Kenyan&nbsp;infants."
         image: assets/img/timeline/ndmrb.jpg
         alt:
 
@@ -101,7 +101,7 @@ services:
         desc: "Design and implementation of bespoke end-to-end software solutions."
         icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Data Science"
-        desc: "Extracting knowledge and insights from your data."
+        desc: "Extracting knowledge and insights from your&nbsp;data."
         icon: fas fa-greater-than-equal
       - title: "Consultancy"
         desc: "Consulting services to the biomedical and public health industries."

@@ -6,7 +6,7 @@ alt: Serial dilution of blood plasma samples
 
 caption:
   title: Publication
-  subtitle: "A vaccine against serogroup B Neisseria meningitidis"
+  subtitle: "A vaccine against serogroup B Neisseria&nbsp;meningitidis"
   thumbnail: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/lancet.jpg
 ---
 First author review article on the development of a vaccine against serogroup B Neisseria meningitidis: an important cause of invasive bacterial infection in children worldwide. <br>

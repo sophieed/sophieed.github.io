@@ -6,7 +6,7 @@ alt: Journal Article
 
 caption:
   title: Publication
-  subtitle: "Structure of HIV-2 Nef Reveals Features Distinct from HIV-1 Involved in Immune Regulation"
+  subtitle: "Structure of HIV-2 Nef Reveals Features Distinct from HIV-1 Involved in Immune&nbsp;Regulation"
   thumbnail: assets/img/portfolio/iscience.png
 ---
 Joint first author study describing the crystal structure of the HIV-2 Nef protein.<br>
