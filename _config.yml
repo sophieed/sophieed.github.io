@@ -19,7 +19,7 @@ url    : "https://sophieedgarandrews.com/" # the base hostname & protocol for yo
 
 title      : ""
 email      : hello@sophieedgarandrews.com #this is also the email contact forms will go to
-description: "The portfolio of Sophie Edgar-Andrews"
+description: "I am a data science and technology consultant, specialising in the biomedical and public health sector."
 author     : Sophie Edgar-Andrews
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -35,3 +35,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
