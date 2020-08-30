@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://sophieedgarandrews.com/" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 
-title      : ""
+title      : "Sophie Edgar-Andrews"
 email      : hello@sophieedgarandrews.com #this is also the email contact forms will go to
 description: "I am a data science and technology consultant, specialising in the biomedical and public health sector."
 author     : Sophie Edgar-Andrews
