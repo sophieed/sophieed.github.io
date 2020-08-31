@@ -17,4 +17,6 @@ to an existing set of JAX-WS defined web services using JSON and standard HTTP m
 {:.list-inline}
 - Date: May 2019
 - Category: Code
+- <a href="https://mvnrepository.com/artifact/org.alfasoftware/soapstone" target="_blank">Link</a>
+
 
