@@ -7,7 +7,7 @@ alt: Journal Article
 caption:
   title: Publication
   subtitle: "Early career researchers want Open&nbsp;Science"
-  thumbnail: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/open-science.png
+  thumbnail: assets/img/portfolio/open-science-thumbnail.png
 ---
 Middle author opinion piece detailing the role of researchers in open science.<br>
 

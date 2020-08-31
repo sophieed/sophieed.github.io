@@ -7,7 +7,7 @@ alt: Code
 caption:
   title: Java Library
   subtitle: "Soapstone"
-  thumbnail: assets/img/portfolio/soapstone.png
+  thumbnail: assets/img/portfolio/soapstone-thumbnail.png
 ---
 Soapstone is a Java library for exposing API catalogues of JAX-WS SOAP web services as JSON/HTTP..<br>
 

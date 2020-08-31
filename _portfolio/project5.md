@@ -7,7 +7,7 @@ alt: Journal Article
 caption:
   title: Publication
   subtitle: "Analysis of HIV-1 envelope evolution suggests antibody-mediated selection of common epitopes"
-  thumbnail: assets/img/portfolio/scientific-reports.png
+  thumbnail: assets/img/portfolio/scientific-reports-thumbnail.png
 ---
 First author study describing the role of antibodies on driving HIV evolution.<br>
 
