@@ -18,5 +18,5 @@ the HIV-2 Nef core, providing insights into the distinct pathogenesis of HIV-2 i
 {:.list-inline}
 - Date: January 2020
 - Category: Publication
-- <a href="https://pubmed.ncbi.nlm.nih.gov/31927483/" target="_blank">Link</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/31927483/" target="_blank">PubMed</a>
 

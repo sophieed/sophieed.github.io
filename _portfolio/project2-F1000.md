@@ -24,7 +24,7 @@ on HIV evolution and summarises emerging concepts in the field.
 {:.list-inline}
 - Date: April 2017
 - Category: Publication
-- <a href="https://pubmed.ncbi.nlm.nih.gov/28529718/" target="_blank">Link</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/28529718/" target="_blank">PubMed</a>
 
 
 

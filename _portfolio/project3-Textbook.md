@@ -19,4 +19,4 @@ disparities.
 {:.list-inline}
 - Date: October 2015
 - Category: Publication
-- <a href="https://link.springer.com/content/pdf/bfm%3A978-1-4939-7101-5%2F1.pdf" target="_blank">Link</a>
+- <a href="https://link.springer.com/content/pdf/bfm%3A978-1-4939-7101-5%2F1.pdf" target="_blank">Front matter</a>

@@ -15,5 +15,5 @@ We discuss the pros and cons of the vaccine and conclude that for parents and cl
 {:.list-inline}
 - Date: March 2014
 - Category: Publication
-- <a href="https://pubmed.ncbi.nlm.nih.gov/24679664/" target="_blank">Link</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/24679664/" target="_blank">PubMed</a>
 

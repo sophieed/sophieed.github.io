@@ -18,5 +18,5 @@ it is our task to change scientific research into open scientific research and c
 {:.list-inline}
 - Date: November 2017
 - Category: Publication
-- <a href="https://pubmed.ncbi.nlm.nih.gov/29141654/" target="_blank">Link</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/29141654/" target="_blank">PubMed</a>
 
