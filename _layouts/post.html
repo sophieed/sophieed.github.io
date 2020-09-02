@@ -10,5 +10,17 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
+
+  <h1 class="post-title">{{ page.title }}</h1>
+   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+   {% if page.author %} • {{ page.author }}{% endif %}
+   <br>
+   {% if page.featured-image %}
+   	{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
+   {% endif %}
+
 {{ content }}
+
+<a onclick="window.history.back()">Back</a>
+
 </div>

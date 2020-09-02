@@ -7,12 +7,11 @@ title: Blog
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">Blog</h2>
-        <h3 class="section-subheading text-muted">Nothing here yet.</h3>
 	  </div>
 		<ul class="posts">
     		{% for post in site.posts %}
        		 <li>
-            	<a href="{{ post.url }}">{{ post.title }}</a>
+            	<a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%d %B %Y" }}
         	</li>
     		{% endfor %}
 		</ul>
