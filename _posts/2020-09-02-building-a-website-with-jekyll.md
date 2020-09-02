@@ -20,7 +20,7 @@ Long story short, this makes the site pretty zippy.
 
 The lack of database also makes the site essentially unhackable (ok, but don't try to hack me to prove a point please, that would be kinda mean). There is no database to corrupt, no data collected, no server patches to stay up-to-date with. There are no requests being sent, and the site is not susceptible to brute-force attacks. Shibby!
 
-Jekyll is also super cheap, and I have no money (help me I'm poor). Jekyll sites can be hosted for free on GitHub pages. There is excellent built-in support for deploying your site straight from the repository, and it doesn't cost a penny. I decided to buy a custom domain name, but fortunately sophieedgarandrews.com wasn't _in demand_ (surprising that) so cost next to nothing too.
+Jekyll is also super cheap. Jekyll sites can be hosted for free on GitHub pages. There is excellent built-in support for deploying your site straight from the repository, and it doesn't cost a penny. I decided to buy a custom domain name, but fortunately sophieedgarandrews.com wasn't _in demand_ (surprising that) so cost next to nothing too.
 
 Finally, I decided to use Jekyll because of the great community. Now hear me out, I'm not gonna get all soppy and heartwarming on you.... Jekyll is _so_ widely used that chances are, if there's something you wanna do, someone else has already done it before. That means there is an absolute wealth of online resources, tutorials, and Q&As covering just about anything you could possibly want to include in your site. That is *incredibly* helpful when it comes to coding without falling into the inevitable rabbit-hole of "why won't this button work? what is the syntax? is there no God?!" I can't thank Stack Overflow enough.
 
