@@ -3,6 +3,7 @@ title: "SeedBank App"
 subtitle: Personal Project, 2020
 image: assets/img/portfolio/seedbank.png
 alt: Code
+categories: code
 
 caption:
   title: Java Application

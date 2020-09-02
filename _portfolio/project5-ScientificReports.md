@@ -3,6 +3,7 @@ title: "Analysis of HIV-1 envelope evolution suggests antibody-mediated selectio
 subtitle: Scientific Reports, 2018
 image: assets/img/portfolio/scientific-reports.png
 alt: Journal Article
+categories: publication
 
 caption:
   title: Publication
