@@ -3,6 +3,7 @@ title: "Soapstone Library"
 subtitle: Alfa Financial Software Ltd, 2019
 image: assets/img/portfolio/soapstone.png
 alt: Code
+categories: code
 
 caption:
   title: Java Library

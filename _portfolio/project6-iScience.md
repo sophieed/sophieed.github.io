@@ -3,6 +3,7 @@ title: "Structure of HIV-2 Nef Reveals Features Distinct from HIV-1 Involved in 
 subtitle: iScience, 2020
 image: assets/img/portfolio/iscience.png
 alt: Journal Article
+categories: publication
 
 caption:
   title: Publication
