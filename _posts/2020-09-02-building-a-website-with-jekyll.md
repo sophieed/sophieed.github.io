@@ -6,7 +6,7 @@ featured-image: jekyll-blog.png
 featured-image-alt: Website image
 ---
 
-**So... I have a website now.** I had a week of work and largely spent it building a website. Once a coder, always a coder.
+**So... I have a website now.** I had a week off work and largely spent it building a website. Once a coder, always a coder.
 
 My site is built on Jekyll. Jekyll is a simple, blog-aware, static site generator written in Ruby: it is free, open source, and right up my street.
 
