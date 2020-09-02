@@ -6,7 +6,7 @@ alt: Textbook Chapter
 
 caption:
   title: Textbook Chapter
-  subtitle: "The Cellular Response to HIV-2 Infection"
+  subtitle: "The Cellular Immune Response to HIV&#8209;2&nbsp;Infection"
   thumbnail: assets/img/portfolio/encyclopedia-thumbnail.png
 ---
 First author textbook chapter describing the role of the cellular immune response in HIV infection.<br>

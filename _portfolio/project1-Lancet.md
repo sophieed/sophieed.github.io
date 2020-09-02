@@ -3,6 +3,7 @@ title: "A vaccine against serogroup B Neisseria meningitidis: dealing with uncer
 subtitle: The Lancet Infectious Diseases, 2014
 image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/lancet.jpg
 alt: Serial dilution of blood plasma samples
+categories: Publication
 
 caption:
   title: Publication
