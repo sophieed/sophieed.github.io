@@ -3,7 +3,6 @@ title: "Early career researchers want Open Science"
 subtitle: Genome Biology, 2017
 image: https://raw.githubusercontent.com/sophieed/sophieed.github.io/master/assets/img/portfolio/open-science.png
 alt: Journal Article
-categories: publication
 
 caption:
   title: Publication
