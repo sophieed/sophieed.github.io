@@ -34,8 +34,6 @@
   </div>
 </section>
 
-
-$(window).load(function(){
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script>
@@ -43,6 +41,8 @@ $(window).load(function(){
 	var $grid = $('.grid').isotope({
 	  // options
 	});
+	
+	$grid.imagesLoaded().progress( function() {
 	// filter items on button click
 	$('.filter-button-group').on( 'click', 'a', function() {
 	  var filterValue = $(this).attr('data-filter');
@@ -52,8 +52,8 @@ $(window).load(function(){
 		$('.button-group a.btn').removeClass('active');
 		$(this).addClass('active');
 	});
+	});
 </script>
-})
 
 <!-- Portfolio Modals -->
 {% for project in site.portfolio %}
