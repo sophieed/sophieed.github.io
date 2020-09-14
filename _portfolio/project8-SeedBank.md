@@ -7,7 +7,7 @@ categories: code
 
 caption:
   title: Java Application
-  subtitle: "SeedBank"
+  subtitle: "SeedBank<br>Seed Management Tool"
   thumbnail: assets/img/portfolio/seedbank-thumbnail.png
 ---
 SeedBank is a Java application for storing and managing information about packets of seeds (I'm super into growing my own food. What else do you wanna know about me...?)<br>
