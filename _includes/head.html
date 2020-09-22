@@ -21,6 +21,9 @@
   <meta property="og:image" content="https://sophieedgarandrews.com/assets/img/meta-image.png" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+  <!-- Add favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <!-- Bootstrap core CSS -->
@@ -36,7 +39,7 @@
   <!-- Custom styles for this theme -->
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
   <link href="/assets/css/agency.css" rel="stylesheet">
-
+ 
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" or page.layout == "post" %}
   <style>
