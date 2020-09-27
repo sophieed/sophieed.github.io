@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://sophieedgarandrews.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://sophieedgarandrews.com" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 title      : "Sophie Edgar-Andrews"
