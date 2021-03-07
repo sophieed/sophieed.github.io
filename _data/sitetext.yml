@@ -1,6 +1,6 @@
 header:
     title: Sophie Edgar-Andrews
-    text: Data Science
+    text: Consultancy
     button: Tell Me More
     buttonlink: "#about" # "#{section}" or "URL/page link"
 
@@ -8,8 +8,7 @@ team:
 
     text: "Hi, I'm Sophie. <br> <br>
 
-    I am an experienced data science and technology consultant, specialising in
-    the biomedical and public health&nbsp;sector.<br><br>
+    I am an experienced viral immunologist and software engineer, working in the public health&nbsp;sector.<br><br>
 
     After completing my DPhil (PhD) in Infection, Immunology, and Translational Medicine
     at The University of Oxford in 2016, I worked as a postdoctoral research fellow in viral
@@ -19,17 +18,19 @@ team:
 
     In March 2020, the COVID-19 pandemic abruptly and profoundly changed the world we live in. While the
     acute effects of the pandemic can still be felt, the long-standing impacts on society, health, and
-    business remain difficult to&nbsp;predict. <br><br>
+    business remain difficult to predict. <br><br>
 
     With a strong background in viral immunology, data science, and software engineering, I am uniquely
     placed to support your business in our evolving and uncertain world. I offer a range of freelance
     consultancy services, and would love to hear about your&nbsp;ideas.<br><br>
 
-    I'm also a mum, a forager, and a really good&nbsp;cook."
+    I'm also a mum, a forager, and a really good&nbsp;cook.<br><br>
+    
+    <b>As of January 2021, I am not accepting new&nbsp;clients.</b>"
     section: about
     people:
       - name: "Dr Sophie Edgar-Andrews"
-        role: "Data Scientist and Consultant <br> United Kingdom"
+        role: "DPhil (Oxon) BSc (Hons)"
         image: assets/img/team/soph.jpg
         social:
           - url: https://www.linkedin.com/in/sophie-edgar-andrews-7bba0564
@@ -43,8 +44,23 @@ timeline:
     title: "Career"
     section: timeline
     events:
-      - title: "Data Scientist and Technical Consultant"
+      - title: "Deputy Head of Regional Analysis & Assessment"
+        year: "2021 - present"
+        desc: "Subnational assessment of the COVID-19 epidemic within the UK. Part of the Health Assessment Directorate 
+        at the Joint Biosecurity Centre (JBC), currently hosted within the Department of Health and Social&nbsp;Care."
+        image: assets/img/timeline/covid.jpg
+        alt:    
+    
+      - title: "Consultant to the World Health Organization"
         year: "2020"
+        desc: "Management and analysis of COVID-19 data. This was a full-time and fixed-term 7-month consultancy 
+        as part of the Health Emergencies Preparedness and Response team at the World Health&nbsp;Organization."
+        image: assets/img/timeline/who.jpg
+        alt:
+        align: right
+        
+      - title: "Data Scientist and Technical Consultant"
+        year: "2020 - present"
         desc: "Freelance data science and consultancy, with a focus on public
         health. My clients include The World Health Organization, supporting their
         Health Emergencies Preparedness and Response team with the management and
