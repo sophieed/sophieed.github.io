@@ -50,22 +50,13 @@ timeline:
         at the Joint Biosecurity Centre (JBC), currently hosted within the Department of Health and Social&nbsp;Care."
         image: assets/img/timeline/covid.jpg
         alt:    
+        align: right
     
       - title: "Consultant to the World Health Organization"
         year: "2020"
         desc: "Management and analysis of COVID-19 data. This was a full-time and fixed-term 7-month consultancy 
-        as part of the Health Emergencies Preparedness and Response team at the World Health&nbsp;Organization."
+        as part of the Health Emergencies Preparedness and Response team at the World&nbsp;Health&nbsp;Organization."
         image: assets/img/timeline/who.jpg
-        alt:
-        align: right
-        
-      - title: "Data Scientist and Technical Consultant"
-        year: "2020 - present"
-        desc: "Freelance data science and consultancy, with a focus on public
-        health. My clients include The World Health Organization, supporting their
-        Health Emergencies Preparedness and Response team with the management and
-        analysis of data in the context of the coronavirus&nbsp;pandemic."
-        image: assets/img/timeline/wfh.jpg
         alt:
 
       - title: "Software Engineer and Consultant"
