@@ -19,7 +19,7 @@ url    : "https://sophieedgarandrews.com" # the base hostname & protocol for you
 
 title      : "Sophie Edgar-Andrews"
 email      : hello@sophieedgarandrews.com #this is also the email contact forms will go to
-description: "I am a viral immunologist and software engineer working in public health."
+description: "I am an immunologist and data scientist currently working in public health."
 author     : Sophie Edgar-Andrews
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

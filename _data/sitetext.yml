@@ -1,6 +1,6 @@
 header:
     title: Sophie Edgar-Andrews
-    text: Consultancy
+    text: Data Science
     button: Tell Me More
     buttonlink: "#about" # "#{section}" or "URL/page link"
 
@@ -8,7 +8,7 @@ team:
 
     text: "Hi, I'm Sophie. <br> <br>
 
-    I am an experienced viral immunologist and software engineer, working in the public health&nbsp;sector.<br><br>
+    I am an experienced viral immunologist and data scientist, working in the public health&nbsp;sector.<br><br>
 
     After completing my DPhil (PhD) in Infection, Immunology, and Translational Medicine
     at The University of Oxford in 2016, I worked as a postdoctoral research fellow in viral
@@ -16,17 +16,19 @@ team:
     coding and data, I subsequently worked for an internationally renowned
     FinTech company, developing and deploying high-performance software&nbsp;solutions. <br><br>
 
-    In March 2020, the COVID-19 pandemic abruptly and profoundly changed the world we live in. While the
-    acute effects of the pandemic can still be felt, the long-standing impacts on society, health, and
+    In March 2020, COVID-19 abruptly and profoundly changed the world we live in. I 
+    worked as a consultant to the World Health Organization during the early stages of the pandemic, before 
+    taking on my current role as Head of Thematic Assessment with the UK Health Security Agency. While the
+    effects of the pandemic can still be felt, the long-standing impacts on society, health, and
     business remain difficult to predict. <br><br>
 
-    With a strong background in viral immunology, data science, and software engineering, I am uniquely
+    With a strong background in data science, immunology, and software engineering, I am uniquely
     placed to support your business in our evolving and uncertain world. I offer a range of freelance
     consultancy services, and would love to hear about your&nbsp;ideas.<br><br>
 
     I'm also a mum, a forager, and a really good&nbsp;cook.<br><br>
     
-    <b>As of January 2021, I am not accepting new&nbsp;clients.</b>"
+    <b>Note: As of January 2021, I am not accepting new&nbsp;clients.</b>"
     section: about
     people:
       - name: "Dr Sophie Edgar-Andrews"
@@ -44,10 +46,18 @@ timeline:
     title: "Career"
     section: timeline
     events:
+      - title: "Head of Thematic Assessment"
+        year: "2021 - present"
+        desc: "I lead a highly interdisciplinary team of analysts investigating the thematic elements underlying the 
+        transmission of infectious disease in the UK. I currently work within the civil service as part of the UK 
+        Health Security Agencyl&nbsp;(UKHSA)."
+        image: assets/img/timeline/covid.jpg
+        alt:    
+
       - title: "Deputy Head of Regional Analysis & Assessment"
         year: "2021 - present"
         desc: "Subnational assessment of the COVID-19 epidemic within the UK. Part of the Health Assessment Directorate 
-        at the Joint Biosecurity Centre (JBC), currently hosted within the Department of Health and Social&nbsp;Care."
+        at the Joint Biosecurity Centre (JBC), hosted within the Department of Health and Social&nbsp;Care."
         image: assets/img/timeline/covid.jpg
         alt:    
         align: right
@@ -104,12 +114,12 @@ services:
     title: "Services"
     section: services
     list:
-      - title: "Software Engineering"
-        desc: "Design and implementation of bespoke end-to-end software&nbsp;solutions."
-        icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Data Science"
         desc: "Extracting knowledge and insights from your&nbsp;data."
         icon: fas fa-greater-than-equal
+      - title: "Software Engineering"
+        desc: "Design and implementation of bespoke end-to-end software&nbsp;solutions."
+        icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Consultancy"
         desc: "Consulting services to the biomedical and public health&nbsp;industries."
         icon: fas fa-dna
@@ -127,11 +137,11 @@ skills:
     title: "Skills"
     section: skills
     list:
-      - title: "Software development"
-      - title: "Data analysis"
+      - title: "Data science"
       - title: "Public health"
       - title: "Virology"
       - title: "Immunology"
+      - title: "Software development"
       - title: "Java"
       - title: "R"
       - title: "Shiny"
