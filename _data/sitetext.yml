@@ -141,6 +141,7 @@ skills:
       - title: "Public health"
       - title: "Virology"
       - title: "Immunology"
+      - title: "Strategy"
       - title: "Software development"
       - title: "Java"
       - title: "R"
@@ -152,6 +153,7 @@ skills:
       - title: "TDD"
       - title: "Source control"
       - title: "Project management"
+      - title: "Learning and Development"
 
 
 portfolio:
