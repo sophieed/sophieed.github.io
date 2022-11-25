@@ -143,17 +143,10 @@ skills:
       - title: "Immunology"
       - title: "Strategy"
       - title: "Software development"
-      - title: "Java"
-      - title: "R"
-      - title: "Shiny"
-      - title: "SQL"
-      - title: "LaTeX"
-      - title: "LANSA"
-      - title: "CSS"
-      - title: "TDD"
       - title: "Source control"
       - title: "Project management"
       - title: "Learning and Development"
+      - title: "Research"
 
 
 portfolio:
